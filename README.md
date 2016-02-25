@@ -1,5 +1,5 @@
 # gender-identification
-## Install
+## Install dependencies
 
     $ pip install scikit-learn
 or
